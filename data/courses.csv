@@ -1,0 +1,21 @@
+course_id,course_code,course_name,credits,capacity,department,prerequisites
+1001,CS101,Introduction To Programming,4,120,Computer Science,
+1002,CS102,Data Structures,4,100,Computer Science,CS101
+1003,CS201,Algorithms,4,80,Computer Science,CS102
+1004,CS202,Computer Organization,3,70,Computer Science,CS101
+1005,CS301,Operating Systems,4,60,Computer Science,CS202
+1006,CS302,Database Systems,4,70,Computer Science,CS102
+1007,CS303,Software Engineering,3,60,Computer Science,CS102
+1008,CS401,Artificial Intelligence,4,50,Computer Science,CS203
+1009,CS402,Computer Networks,3,60,Computer Science,CS202
+1010,CS403,Compiler Design,4,40,Computer Science,CS203
+2001,MATH101,Calculus I,4,150,Mathematics,
+2002,MATH102,Calculus Ii,4,120,Mathematics,MATH101
+2003,MATH201,Linear Algebra,3,100,Mathematics,MATH101
+2004,MATH202,Discrete Mathematics,3,90,Mathematics,
+2005,PHY101,Physics I,4,130,Physics,MATH101
+2006,PHY102,Physics Ii,4,110,Physics,PHY101
+3001,EE201,Digital Logic Design,4,80,Electrical Engineering,
+3002,EE301,Microprocessors,4,60,Electrical Engineering,EE201
+4001,IE201,Probability And Statistics,3,100,Industrial Engineering,MATH101
+4002,ME201,Engineering Mechanics,4,90,Mechanical Engineering,PHY101

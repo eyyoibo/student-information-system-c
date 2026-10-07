@@ -1,0 +1,31 @@
+professor_id,first_name,last_name,email,phone,department,title,office
+5001,Ayhan,Demiriz,ayhan.demiriz@university.edu,555-1001,Computer Science,Professor,ENG-301
+5002,Serkan,Günal,serkan.gunal@university.edu,555-1002,Computer Science,Associate Professor,ENG-302
+5003,Pınar,Karagöz,pinar.karagoz@university.edu,555-1003,Computer Science,Professor,ENG-303
+5004,Cevat,Şener,cevat.sener@university.edu,555-1004,Computer Science,Assistant Professor,ENG-304
+5005,Nihan,Kesim,nihan.kesim@university.edu,555-1005,Computer Science,Associate Professor,ENG-305
+5006,Cem,Say,cem.say@university.edu,555-1006,Computer Science,Professor,ENG-306
+5007,Tuğba,Taşkaya,tugba.taskaya@university.edu,555-1007,Computer Science,Assistant Professor,ENG-307
+5008,Selim,Aksoy,selim.aksoy@university.edu,555-1008,Computer Science,Professor,ENG-308
+5009,Yeşim,Aydın,yesim.aydin@university.edu,555-1009,Computer Science,Associate Professor,ENG-309
+5010,Oğuz,Altun,oguz.altun@university.edu,555-1010,Computer Science,Assistant Professor,ENG-310
+5011,Kemal,Oflazer,kemal.oflazer@university.edu,555-1011,Computer Science,Professor,ENG-311
+5012,Gültekin,Özsoyoğlu,gultekin.ozsoyoglu@university.edu,555-1012,Computer Science,Professor,ENG-312
+5013,Mustafa,Çoşar,mustafa.cosar@university.edu,555-1013,Mathematics,Professor,SCI-201
+5014,Ayşe,Berkman,ayse.berkman@university.edu,555-1014,Mathematics,Associate Professor,SCI-202
+5015,Burak,Kanbur,burak.kanbur@university.edu,555-1015,Mathematics,Assistant Professor,SCI-203
+5016,Cem,Güneri,cem.guneri@university.edu,555-1016,Mathematics,Professor,SCI-204
+5017,Zehra,İpek,zehra.ipek@university.edu,555-1017,Mathematics,Associate Professor,SCI-205
+5018,Ahmet,Sezer,ahmet.sezer@university.edu,555-1018,Physics,Professor,SCI-301
+5019,Eda,Gürel,eda.gurel@university.edu,555-1019,Physics,Associate Professor,SCI-302
+5020,Koray,Dağ,koray.dag@university.edu,555-1020,Physics,Assistant Professor,SCI-303
+5021,Levent,Onural,levent.onural@university.edu,555-1021,Electrical Engineering,Professor,ENG-401
+5022,Özgür,Gürbüz,ozgur.gurbuz@university.edu,555-1022,Electrical Engineering,Associate Professor,ENG-402
+5023,Aylin,Yener,aylin.yener@university.edu,555-1023,Electrical Engineering,Professor,ENG-403
+5024,Barış,Tan,baris.tan@university.edu,555-1024,Industrial Engineering,Professor,ENG-501
+5025,Metin,Türkay,metin.turkay@university.edu,555-1025,Industrial Engineering,Associate Professor,ENG-502
+5026,Tonguç,Ünlüyurt,tonguc.unluyurt@university.edu,555-1026,Industrial Engineering,Professor,ENG-503
+5027,Yaman,Arkun,yaman.arkun@university.edu,555-1027,Mechanical Engineering,Professor,ENG-601
+5028,Melih,Papila,melih.papila@university.edu,555-1028,Mechanical Engineering,Associate Professor,ENG-602
+5029,Mehmet,Çalışkan,mehmet.caliskan@university.edu,555-1029,Mechanical Engineering,Assistant Professor,ENG-603
+5030,Serhat,Yeşilyurt,serhat.yesilyurt@university.edu,555-1030,Mechanical Engineering,Professor,ENG-604
